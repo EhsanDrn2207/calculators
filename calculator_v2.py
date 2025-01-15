@@ -4,7 +4,7 @@ import random
 #creating GUI
 root = tk.Tk()
 root.title("Esd calculator")
-root.iconbitmap('E:\Program Files\Python\second_ProjectFile\calculator.ico')
+root.iconbitmap('calculator.ico')
 
 #creating lable for showing result of caculation
 lbl_result = tk.Label(
